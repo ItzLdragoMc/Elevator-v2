@@ -1,1 +1,28 @@
 
+24 lines (21 sloc)  505 Bytes
+ 
+---
+name: Elevator
+main: ItzLdragoMc\Elevator\Main
+version: 1.1.0
+api: 4.0.0
+
+author: ItzLdragoMc
+description: "A simple elevator plugin that uses signs."
+website: https://github.com/ItzLdragoMc/Elevator-v2
+
+commands:
+  elevator:
+    permission: "elevator.command.reload"
+    description: "Allows to reload the Elevator plugin configuration"
+    usage: "/elevator reload"
+
+permissions:
+  elevator.command.reload:
+    default: op
+  elevator.sign.create:
+    default: op
+  elevator.sign.use:
+    default: true
+...
+© 2022 GitHub, Inc.
