@@ -16,7 +16,7 @@
 
 declare(strict_types=1);
 
-namespace matcracker\Elevator;
+namespace ItzLdragoMc\Elevator-v2;
 
 use JackMD\UpdateNotifier\UpdateNotifier;
 use pocketmine\command\Command;
