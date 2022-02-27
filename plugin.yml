@@ -2,8 +2,8 @@
 24 lines (21 sloc)  505 Bytes
  
 ---
-name: Elevator
-main: ItzLdragoMc\Elevator\Main
+name: Elevator-v2
+main: ItzLdragoMc\Elevator-v2\Main
 version: 1.1.0
 api: 4.0.0
 
