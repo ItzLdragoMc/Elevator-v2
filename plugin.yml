@@ -1,5 +1,4 @@
 
-24 lines (21 sloc)  505 Bytes
  
 ---
 name: Elevator-v2
@@ -23,6 +22,6 @@ permissions:
   elevator.sign.create:
     default: op
   elevator.sign.use:
-    default: true
+    default: true 
 ...
-© 2022 LdragoPlugins, Inc.
+
